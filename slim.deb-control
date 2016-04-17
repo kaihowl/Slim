@@ -1,0 +1,8 @@
+cat << CONTROL
+Package: php-slim
+Version: $VERSION
+Architecture: all
+Maintainer: Kai Hoewelmeyer <mail\@hoewelmeyer.eu>
+Description: Source package for the php slim framework
+
+CONTROL
